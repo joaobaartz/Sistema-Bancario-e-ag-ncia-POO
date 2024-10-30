@@ -1,5 +1,4 @@
-# Conteúdo do README para o GitHub em Python
-readme_content = """
+
 # Sistema Bancário em Python
 
 Este projeto simula um sistema bancário com funcionalidades básicas para gerenciar contas correntes, agências e cartões de crédito.
@@ -30,4 +29,5 @@ Para visualizar exemplos de uso, execute `dadosdacontabancaria.py` para operaç�
 ## Licença
 
 Este projeto é apenas para fins educativos e práticos.
+## Feito por João vitor luçolli baartz 
 """
